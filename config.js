@@ -20,7 +20,7 @@ module.exports = {
   STICKER_DATA: process.env.STICKER_DATA || '🎯𝙲𝙾𝙾𝙻-𝙱𝙾𝚈-𝙼𝙳🍀',
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ &sender, 𝙲𝙾𝙾𝙻-𝙱𝙾𝚈-𝙼𝙳 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20260920-WA0415.jpg',
   AUDIO_DATA: process.env.AUDIO_DATA || '𝙲𝙾𝙾𝙻-𝙱𝙾𝚈-𝙼𝙳:Suresh;https://i.ibb.co/tHWJrz3/IMG-20260920-WA0415.jpg',
-  BOT_INFO: process.env.BOT_INFO || 'ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;8509727305;https://i.ibb.co/tHWJrz3/IMG-20260920-WA0415.jpg', 
+  BOT_INFO: process.env.BOT_INFO || 'cool boy-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;8509727305;https://i.ibb.co/tHWJrz3/IMG-20260920-WA0415.jpg', 
   PREFIX: process.env.PREFIX || '.', //Type false to use without prerix
   MODE: process.env.MODE || 'private', //Type public to change bot mode to public
   SUDO: process.env.SUDO || '918509727305, 918509727305',
@@ -41,7 +41,7 @@ module.exports = {
   //AUTOMATION 🎯
   AUTO_ALWAYS_ONLINE: toBool(process.env.AUTO_ALWAYS_ONLINE || 'false'),
   AUTO_CALL_REJECT: toBool(process.env.AUTO_CALL_REJECT || 'false'),
-  AUTO_CALL_REJECT_MSG: process.env.AUTO_CALL_REJECT_MSG || '*ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴄᴀʟʟ ʙʟᴏᴄᴋɪɴɢ*\n\nꜱᴏʀʀʏ ᴄᴀʟʟꜱ ᴀʀᴇ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ\n\nᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴀ ᴛᴇxᴛ ᴍᴇꜱꜱᴀɢᴇ/ᴠᴏɪᴄᴇ ᴍᴇꜱꜱᴀɢᴇ\n\n> ᴘʜᴏᴇɴɪx-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
+  AUTO_CALL_REJECT_MSG: process.env.AUTO_CALL_REJECT_MSG || '*ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴄᴀʟʟ ʙʟᴏᴄᴋɪɴɢ*\n\nꜱᴏʀʀʏ ᴄᴀʟʟꜱ ᴀʀᴇ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ\n\nᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴀ ᴛᴇxᴛ ᴍᴇꜱꜱᴀɢᴇ/ᴠᴏɪᴄᴇ ᴍᴇꜱꜱᴀɢᴇ\n\n> cool boy-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
   AUTO_MSG_READ: toBool(process.env.AUTO_MSG_READ || 'false'),
   AUTO_MSG_REACT: toBool(process.env.AUTO_MSG_REACT || 'false'),
 
