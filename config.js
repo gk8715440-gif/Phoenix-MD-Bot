@@ -16,7 +16,7 @@ module.exports = {
  // ℹ️ Removed commands like welcome,goodbye etc and other commands and features that cause whatsapp account/group ban thank you!
 //____________________________________________________________________________________________________________________________________________  
   //🤖 BOT CONFIGURATION
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'Phoenix~HyperianFathom',
   STICKER_DATA: process.env.STICKER_DATA || '🎯𝙲𝙾𝙾𝙻-𝙱𝙾𝚈-𝙼𝙳🍀',
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ &sender, 𝙲𝙾𝙾𝙻-𝙱𝙾𝚈-𝙼𝙳 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20260920-WA0415.jpg',
   AUDIO_DATA: process.env.AUDIO_DATA || '𝙲𝙾𝙾𝙻-𝙱𝙾𝚈-𝙼𝙳:Suresh;https://i.ibb.co/tHWJrz3/IMG-20260920-WA0415.jpg',
